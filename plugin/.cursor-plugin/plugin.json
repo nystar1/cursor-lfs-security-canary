@@ -1,0 +1,6 @@
+{
+  "name": "cursor-lfs-security-canary",
+  "displayName": "Cursor LFS Security Canary",
+  "description": "Harmless authorized Git LFS parser canary",
+  "version": "0.0.1"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "cursor-lfs-security-canary",
+  "plugins": [
+    {
+      "name": "cursor-lfs-security-canary",
+      "description": "Harmless authorized Git LFS parser canary",
+      "source": "./plugin"
+    }
+  ]
+}
